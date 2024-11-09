@@ -1,0 +1,22 @@
+{
+  "name": "intronode",
+  "version": "0.1.0",
+  "description": "my ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenacuna/introNode2024.git"
+  },
+  "author": "stevenacuna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevenacuna/introNode2024/issues"
+  },
+  "homepage": "https://github.com/stevenacuna/introNode2024#readme",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
